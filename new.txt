@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 added branch new
 
@@ -8,3 +9,8 @@ Hellow remote developer
 
 added branch new
 added new file
+=======
+added branch new
+
+new changes
+>>>>>>> new file got modified
